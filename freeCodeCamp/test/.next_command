@@ -1,0 +1,60 @@
+mkdir client/assets/fonts
+touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
+find
+find client/assets/fonts
+touch client/assets/fonts/lato-bold.ttf
+touch clients/assets/fonts/lato-light.ttf
+touch client/assets/fonts/lato-light.ttf
+find
+rmdir --help
+rm --help
+rm -r fonts
+ls --color=auto
+touch package.json website
+touch server.js website
+touch README.md website
+__vsc_prompt_cmd_original
+ls --color=auto
+echo Yay!
+echo I finished the boilerplate!
+echo one more thing ...
+echo one more thing...
+echo I made this boilerplate README.md
+echo I made this boilerplate >> README.md
+more README.md
+echo from the command line >> README.md
+more README.md
+echo for the freeCodeCamp bash lessons >> README.md
+more README.md
+cd project
+cd ..
+ls --color=auto
+rn website website-boilerplate
+mv website website-boilerplate
+ls --color=auto
+copy --help
+cp --help
+cp -r website-boilerplate Frans-website
+__vsc_prompt_cmd_original
+cp -r website-boilerplate toms-website
+ls --color=auto
+find toms-website
+find
+find website-boilerplate
+clear
+echo goodbye
+echo goodbye terminal
+exit
+git remote add origin git@github.com:Frann107/Learning-Bash.git
+git remote add origin git@github.com:Frann107/Learning-Bash.git
+git remote set-url origin git@github.com:Frann107/Learning-Bash.git
+git remote add origin git@github.com:Frann107/Learning-Bash.git
+git branch -M main
+git push -u origin main
+git push -u origin main
+ls --color=auto
+ls --color=auto -a
+rm -rf .git
+git init
+git commit -m "first commit"
